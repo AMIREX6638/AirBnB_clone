@@ -1,4 +1,6 @@
-nteractive shell?"""
+#!/usr/bin/python3
+
+"""An interactive shell?"""
 
 import cmd
 import re
